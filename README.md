@@ -30,3 +30,37 @@ MultiAgent-ResourceCollector/
 ├─ assets/ # Images, maps, or sprites
 ├─ screenshots/ # Optional gameplay screenshots
 └─  README.md 
+
+
+---
+
+## How to Run
+
+1. **C++ version:**  
+   - Open the project in your IDE or use terminal:
+     ```bash
+     g++ src/*.cpp -o ResourceCollector
+     ./ResourceCollector
+     ```
+
+2. **Python version:**  
+   - Install dependencies if any:
+     ```bash
+     pip install -r requirements.txt
+     ```
+   - Run the game:
+     ```bash
+     python main.py
+     ```
+
+3. **Gameplay:**  
+   - Follow the on-screen instructions to control agents (if manual) or watch autonomous agents collect resources.
+
+---
+
+## Author
+
+**Amina Naveed**  
+- GitHub: [amnanaveed14](https://github.com/amnanaveed14)  
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/yourusername)
+
