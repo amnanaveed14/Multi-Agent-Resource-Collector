@@ -62,5 +62,5 @@ MultiAgent-ResourceCollector/
 
 **Amina Naveed**  
 - GitHub: [amnanaveed14](https://github.com/amnanaveed14)  
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/yourusername)
+- LinkedIn: [your-linkedin](https://www.linkedin.com/in/iamna)
 
